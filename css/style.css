@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(241, 241, 241) !important;
+    font-family: 'Inter', sans-serif  !important;
+}
+.card{
+    margin-bottom: 1rem;
+}
+.dev-rounded{
+    border-radius: 15px  !important;
+}
+.dev-rounded-bottom{
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+}
+.avatar{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.avatar-sm{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.fw-700{
+    font-weight: 700 !important;
+}
+
+.text-black{
+    color:#08090A;
+}
+.pinned-content{
+    border: 2px solid dodgerblue;
+}
+.reaction-hover:hover{
+    background-color: #e6e5e5;
+    padding:0.325rem;
+    border-radius: 7px;
+    display: inline;
+}
+.a-style{
+    text-decoration: none;
+}
